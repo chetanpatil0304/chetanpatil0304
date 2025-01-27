@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.ibb.co/Nj5379n/new.png" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Chetan Patil , a learning Software Developer, currently focused on learning and developing web applications!</div>  
